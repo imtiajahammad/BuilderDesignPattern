@@ -1,0 +1,15 @@
+/Users/imtiajahammad/Development/dotnetCore/BuilderDesignPattern/bin/Debug/net6.0/BuilderDesignPattern
+/Users/imtiajahammad/Development/dotnetCore/BuilderDesignPattern/bin/Debug/net6.0/BuilderDesignPattern.deps.json
+/Users/imtiajahammad/Development/dotnetCore/BuilderDesignPattern/bin/Debug/net6.0/BuilderDesignPattern.runtimeconfig.json
+/Users/imtiajahammad/Development/dotnetCore/BuilderDesignPattern/bin/Debug/net6.0/BuilderDesignPattern.dll
+/Users/imtiajahammad/Development/dotnetCore/BuilderDesignPattern/bin/Debug/net6.0/BuilderDesignPattern.pdb
+/Users/imtiajahammad/Development/dotnetCore/BuilderDesignPattern/obj/Debug/net6.0/BuilderDesignPattern.csproj.AssemblyReference.cache
+/Users/imtiajahammad/Development/dotnetCore/BuilderDesignPattern/obj/Debug/net6.0/BuilderDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imtiajahammad/Development/dotnetCore/BuilderDesignPattern/obj/Debug/net6.0/BuilderDesignPattern.AssemblyInfoInputs.cache
+/Users/imtiajahammad/Development/dotnetCore/BuilderDesignPattern/obj/Debug/net6.0/BuilderDesignPattern.AssemblyInfo.cs
+/Users/imtiajahammad/Development/dotnetCore/BuilderDesignPattern/obj/Debug/net6.0/BuilderDesignPattern.csproj.CoreCompileInputs.cache
+/Users/imtiajahammad/Development/dotnetCore/BuilderDesignPattern/obj/Debug/net6.0/BuilderDesignPattern.dll
+/Users/imtiajahammad/Development/dotnetCore/BuilderDesignPattern/obj/Debug/net6.0/refint/BuilderDesignPattern.dll
+/Users/imtiajahammad/Development/dotnetCore/BuilderDesignPattern/obj/Debug/net6.0/BuilderDesignPattern.pdb
+/Users/imtiajahammad/Development/dotnetCore/BuilderDesignPattern/obj/Debug/net6.0/BuilderDesignPattern.genruntimeconfig.cache
+/Users/imtiajahammad/Development/dotnetCore/BuilderDesignPattern/obj/Debug/net6.0/ref/BuilderDesignPattern.dll
